@@ -1,3 +1,5 @@
+//USO DE PROPS Y HOOCKS 
+
 // Tarea 2:
 
 // crear 3 botones que tomen el valor de props
